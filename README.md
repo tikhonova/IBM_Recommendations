@@ -1,11 +1,16 @@
-Recommendations with IBM
+# Recommendations with IBM
+Udacity - Data Scientist Nanodegree Program - Recommendation Engine
 
-Introduction
+### Introduction
 
 This project analyze the interactions that users have with articles on the IBM Watson Studio platform, and will help to make recommendations to the users about new articles they will like. 
 
+### IBM Watson
+
 IMB Watson website :
 https://dataplatform.cloud.ibm.com/home?context=wdp
+
+### Project Overview
 
 I. Exploratory Data Analysis
 
