@@ -10,7 +10,7 @@ This project analyze the interactions that users have with articles on the IBM W
 IMB Watson website :
 https://dataplatform.cloud.ibm.com/home?context=wdp
 
-![](PrintScreen IBM Watson.PNG)
+![](PrintScreen_IBM_Watson.PNG)
 
 ### Project Overview
 
