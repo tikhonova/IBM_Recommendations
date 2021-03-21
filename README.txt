@@ -1,7 +1,7 @@
 Recommendations with IBM
 Udacity - DSND - Recommendation Engines
 
-Summary
+Summary:
 This project analyzes the interactions that users have with various articles on the IBM Watson Studio platform and suggests new articles they might like. 
 
 Work File :
