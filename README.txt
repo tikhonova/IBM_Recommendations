@@ -1,24 +1,26 @@
-# Recommendations with IBM
+Recommendations with IBM
 Udacity - DSND - Recommendation Engines
 
-### Summary
+Summary
+This project analyzes the interactions that users have with various articles on the IBM Watson Studio platform and suggests new articles they might like. 
 
-This project analyzes the interactions that users have with articles on the IBM Watson Studio platform and helps make recommendations about new articles they might like. 
+Work File :
+Recommendations_with_IBM.ipynb
 
+Data: 
+articles_community.csv
+user-item-interactions.csv
 
-### Project Overview
-
-File : Recommendations_with_IBM.ipynb
-
+Stages:
 I. Exploratory Data Analysis
 II. Rank Based Recommendations
 III. User-User Based Collaborative Filtering
 IV. Content Based Recommendations
 V. Matrix Factorization
 
-### Required packages:
+Packages required:
 pandas
+numpy
 nltk
 scikit-learn
 matplotlib
-numpy
